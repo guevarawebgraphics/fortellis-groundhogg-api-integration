@@ -21,6 +21,17 @@ This is the file path where api is located
 
 ![image](https://github.com/guevarawebgraphics/fortellis-groundhogg-api-integration/assets/42199746/363a58c3-075b-4651-87c3-f80a5f727ced)
 
+## Cron Job
+
+To setup cron job use this command below
+
+```
+php artisan send_groundhogg_request:cron
+
+```
+and configure it on this page
+
+![image](https://github.com/guevarawebgraphics/fortellis-groundhogg-api-integration/assets/42199746/3f30ca6d-02f6-45bf-81bc-a0125a218cb8)
 
 
 ## API Keys, Secrets, Endpoints, Subscription ID
