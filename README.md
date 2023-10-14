@@ -1,3 +1,25 @@
+
+## API Keys, Secrets, Endpoints, Subscription ID
+
+Use this credentials for testing purposes. Please inject this code on your `.env` file
+
+```
+# Ground Hogg Webhook Listener URL
+GROUNDHOGG_WEBHOOK_URL="https://mycrmplayground.com/wp-json/gh/v4/webhooks/475-webhook-listener?token=FLgcPbp"
+
+# FORTELLIS
+FORTELLIS_API_KEY="GJjmy6Vx0Y7flkDNxAFBKvcdAvN1xeyS"
+FORTELLIS_API_SECRET="1Tc2GUrvohvKLiew"
+FORTELLIS_SUBSCRIPTION_ID="1a75e6dd-976c-45f1-b691-e731adf35888"
+FORTELLIS_BEARER_URL="https://identity.fortellis.io/oauth2/aus1p1ixy7YL8cMq02p7/v1/token"
+FORTELLIS_SEARCH_API="https://api.fortellis.io/cdk-test/sales/v1/elead/customers/search"
+
+```
+
+
+
+## Wordpress Shortcode Setup
+
 Import This Code
 
 
