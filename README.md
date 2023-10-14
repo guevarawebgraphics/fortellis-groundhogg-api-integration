@@ -68,3 +68,9 @@ return $return;
 Into your Active Theme > Function.php
 
 ![image](https://github.com/guevarawebgraphics/fortellis-groundhogg-api-integration/assets/42199746/597c19c0-1623-4f05-a583-0b1f59f2f9c8)
+
+
+## Webhook Listener
+
+![image](https://github.com/guevarawebgraphics/fortellis-groundhogg-api-integration/assets/42199746/f915e135-7620-473b-8ede-1d92756d0b7f)
+
