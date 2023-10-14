@@ -17,6 +17,11 @@ php artisan migrate
 php artisan queue:work
 ```
 
+This is the file path where api is located
+
+![image](https://github.com/guevarawebgraphics/fortellis-groundhogg-api-integration/assets/42199746/363a58c3-075b-4651-87c3-f80a5f727ced)
+
+
 
 ## API Keys, Secrets, Endpoints, Subscription ID
 
