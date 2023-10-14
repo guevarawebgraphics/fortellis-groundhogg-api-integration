@@ -1,3 +1,13 @@
+## Laravel Setup
+
+Execute these commands
+
+```
+composer install
+php artisan migrate
+php artisan queue:work
+```
+
 
 ## API Keys, Secrets, Endpoints, Subscription ID
 
