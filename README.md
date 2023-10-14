@@ -1,3 +1,6 @@
+Import This Code
+
+
 ```
 add_filter( 'groundhogg/webhooks/listener/data', 'create_or_update_groundhogg_contact', 10, 2 );
 
@@ -29,3 +32,7 @@ return $return;
 
 }
 ```
+
+Into your Active Theme > Function.php
+
+![image](https://github.com/guevarawebgraphics/fortellis-groundhogg-api-integration/assets/42199746/597c19c0-1623-4f05-a583-0b1f59f2f9c8)
